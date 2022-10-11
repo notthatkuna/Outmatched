@@ -19,4 +19,4 @@ Outmatched is an exploit script for the popular Roblox game Da Hood and is plann
 * Auto Block
 * Auto Stomp
 
-And a bunch more! You can contact the creator [here](https://discord.com/users/498984530968051713).
+And a bunch more! You can contact the creator on Discord [here](https://discord.com/users/498984530968051713).
