@@ -20,3 +20,12 @@ Outmatched is an exploit script for the popular Roblox game Da Hood and is plann
 * Auto Stomp
 
 And a bunch more! You can contact the creator on Discord [here](https://discord.com/users/498984530968051713).
+
+# How do I use Outmatched?
+
+You can load Outmatched using the following line of code:
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notthatkuna/Outmatched/main/Outmatched.lua))()
+```
+
+Outmatched is ___not___ expected to work on all exploits, but it has been tested on Synapse.
