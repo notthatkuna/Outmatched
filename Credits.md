@@ -1,5 +1,9 @@
 # Credits
 
+Note:
+
+No names in this credit list are affiliated with this project in any way; they are all public resources.
+
 ## AntiCheatBypass
 [Stefanuk12 on V3rmillion](https://v3rmillion.net/showthread.php?tid=1135450)
 
